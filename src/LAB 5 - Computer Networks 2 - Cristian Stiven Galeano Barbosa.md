@@ -3,7 +3,7 @@ _Hecho por Cristian Stiven Galeano Barbosa_
 # Repositorio
 
 Allí también se encuentra el pdf y el archivo cisco por sí quieres echarle una revisada.
-
+https://github.com/CristianSGaleanoB/computer-networks-2-week-5
 # Actividad 1 - Monitoreo de redes.
 
 Para iniciar con esta actividad daré un contexto breve del ambiente donde se desarrollará, consiste en el host que es windows 11 y una VM ubuntu 
